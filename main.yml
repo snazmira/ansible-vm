@@ -54,7 +54,7 @@
       ssh_password_enabled: false
       ssh_public_keys:
         - path: ../ssh-keys/ansible-key
-          key_data: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDA87B9lPE4c3IoBJp/4LZnrKaAL8Q6Nja6TC4r8SPSUY+XG47Gg84ra1kyPmTJBWAu4YEOkuzs3KcJvGva/5lXpAS9+LgtPEo570rBgkNitYVgSOLIkyn/P7iuTkVcgCPkFBUvYqHybMe4f7VQ2Rnw50Gmcz2fUdKe66888S288hKiMP1nxAxcRCrMHf9MZqWL1NKaE5OWckrFN4Q7tKIF4QOUKzxl8Iz3iWWAGEIBa080ZDiQSBBstSv7b5AiRQG5EEQzJfunA/REyFuDp+5YXcJXhXlJPn6UDuh94YfoBvoo3Xdf15rZ98yMHtkpV0MP0aYFwmdar9/+gEaDiBfJekc9Mf+QjAnMUB846WMrPeSPoq8j251snj+ggRVyYdpKVkcjzn5lKfNSV1dZNEU1Wb8BXgL+O1Fiar81cACJYDz69mv7N0014P/szaGVC+E+Njcs8SdRerDG6QXc+Wq8gZa5xSKpLr+21lyOaGK2LitS5w759OuRTr50dnIJGWy6Xouis6hLm6I0Y+wNY4KKUP/SG+ucVWTB7Ue1vhdXlkAwI6fZFzImnVjgZ3YxTg3h4oHGtvvdZ9btt6IyQS170pJ/Jna0JKOb1KaTuGtUQcCzIpRCvoDSOmGD1FqViKQGyNwrd6z4X0fHj0itRZWP3jDt5YvcrdNTVZarg5tXfQ== azureuser@linux-terraform-01"
+          key_data: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDYB8JmcSN1SuSMLF7qUjiZVhcwrZyV+SSfTXjvQFYjDrmEto+JV90JrVBnIanpyAXITllV26kGap9PIoG+fLoxj5wnoyw4bI5kexJno4rxHHxkInl7rJCASxfvWsUIIMJiW/D/nInEayCyRJvVtBAzHi4mi0l4U7W0joe8lNygdK7Musgxh0wXUMLbFm21xf9Izp3/twiNjNIBp37VE5tg0wPSD/WKB8JouCQrtNm2wQo520KAT+gTS0+s/Qnp19vhdc1zNmHPetY8w3sim6Ti4yTfjWXHvckQc0ZqfvPlMhW9F3ptpjlKb+M1RKsODEB5nNEBFJMs8WyUnLOcOlSm/QGYvG3pu2AB3zpl1u/TEcYcY5Z5yZ4/hiSu22hkWGWCa+vYhCsa5u/JjooRbRTVr3adHeaxGRuo0oYo2BvL6ADcMIYEkHlGoD2whPPygvcptMU0I8GooDl9u68UYcOJxh1AF+g2yF1us7YY2DX/THacDLyzLvPl4yQ0KMLwIR/OICZXiMlqqK7VBtA2Ey+q2qz6eJqegw59qlS+smj5uEduRxA0ccyYRiSF986Mp/AW6sbhWhfqThST/W9AFflNbi4G0YCQuWPwo3lrYYviH12P3zGGQR2rS4Qzav8trBoIiDfkZymp7lMMbwbY3MkN6fAV9Bf12OB32dIj2PNpVw== azureuser@hostname"
       network_interfaces: myNIC
       image:
         offer: 0001-com-ubuntu-server-focal
